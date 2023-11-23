@@ -2,7 +2,8 @@
     "name": "ft-alarm",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "v1": "*"
     },
     "files": [
         "main.blocks",
